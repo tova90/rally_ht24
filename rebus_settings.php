@@ -1,7 +1,7 @@
 <?php
 
 // Current rally name
-define('NAME', '2024.04');
+define('NAME', '2024.knally');
 
 // Affects chart width
 define('SCREENWIDTH', 1024);
