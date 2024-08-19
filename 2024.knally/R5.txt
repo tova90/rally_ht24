@@ -1,0 +1,11 @@
+\rebus LECALEVOL
+\op <->
+LOVELACEL
+\op -l
+LOVELACE
+\op !
+ADA
+\op <->
+ADA
+\op +l
+\ort LADA

@@ -1,0 +1,9 @@
+\rebus ÅRTSIVACKMYNT
+\op i
+VACKÅRTSMYNT
+\op å->e,-s
+VACKERTMYNT
+\op !
+FINPENG
+\op e->å, +s
+\ort FINSPÅNG

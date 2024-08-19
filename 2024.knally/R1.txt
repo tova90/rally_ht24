@@ -1,0 +1,11 @@
+\rebus ENLEVÖRDEB
+\op <->
+BEDRÖVELNE
+\op n->s
+BEDRÖVELSE
+\op !
+SORG
+\op n->s
+NORG
+\op <->
+\ort GRON

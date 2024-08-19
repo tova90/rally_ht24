@@ -1,0 +1,11 @@
+\rebus VIDDRA
+\op i
+DIVIDRA
+\op +e
+DIVIDERA
+\op !
+DELA
+\op -e
+DLA
+\op i
+\ort LIDA
