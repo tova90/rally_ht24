@@ -61,30 +61,21 @@ $events = array(
     'ÖppTlk' => 'Öppnat stjälptallriksplockkuvertet',
     'StjTlk' => 'Redovisade stjälptallriksplock',
 
-    // Pyssel förmiddag
-    'P APR' => 'Pyssel 1: April, april!',
-    'P DEF' => 'Pyssel 2: DEFinitioner',
-    'P SKO' => 'Pyssel 3: Hålligång i skogen',
-    'P ORD' => 'Pyssel 4: Ordfläta',
-    'P SÖK' => 'Pyssel 5: Söker dig!',
-    'P VAD' => 'Pyssel 6: Vad ska bort?',
-    'P SYS' => 'Pyssel 7: Vad sysslar dina föräldrar egentligen med?',
-    'P MUS' => 'Pyssel 8: Melodikrysset',
-
-
-    // Heldagspyssel
-    'P KLI' => 'Pyssel 9: Det sade bara klick!',
-    'P HAK' => 'Pyssel 10: Hakuna matata',
-    'P STA' => 'Pyssel 11: Jättestark eller jättestark',
-    'P LAG' => 'Pyssel 12: Lagar och straff',
-    'P MAT' => 'Pyssel 13: Mattepyssel',
-    'P SUN' => 'Pyssel 14: Sunda vätskor',
-    'P SYN' => 'Pyssel 15: Synonymer',
-
-    // Lunchpyssel
-    'P NÖR' => 'Lunchpyssel 1: Tipspromenad - Nördkunskap',
-    'P BÖN' => 'Lunchpyssel 2: Bönrörigt',
-    'P DÖR' => 'Lunchpyssel 3: Lämna inga dörrar på glänt!',
+//Pyssel
+    'P MUS' => 'Pyssel: Melodikrysset',
+    'P SHA' => 'Pyssel: Vad händer i Shakespears pjäser',
+    'P SEN' => 'Pyssel: Vad kommer härnäst och även därefter',
+    'P GOD' => 'Pyssel: Godis är gott',
+    'P TEM' => 'Pyssel: Teman',
+    'P IDI' => 'Pyssel: Idiotfrågan',
+    'P BLO' => 'Pyssel: Blodsugare',
+    'P RÖD' => 'Pyssel: Röda vätskor som definitivt inte är blod',
+    'P NON' => 'Pyssel: Nonogram',
+    'P LJU' => 'Pyssel: Ljudkalendrar',
+    'P KEX' => 'Pyssel: Kexpoesi',
+    'P MUT' => 'Pyssel: Mutter utan utter',
+    'P OMG' => 'Pyssel: Åh herregud',
+    'P SYN' => 'Pyssel: Syntolkade fotoplock',
 
     'Stil' => 'Stil och finess',
 
@@ -120,12 +111,12 @@ $parts = array(
     // automagiskt att bli visad.
     '*picture*Rallykarta VT2024:karta.jpg',
 
-    'Etapp 1' => array('Tid S', 'R 1', 'P APR', 'P DEF', 'TP 1', 'FP 1'),
+    'Etapp 1' => array('Tid S', 'R 1', 'P GOD', 'TP 1', 'FP 1'),
 
-    'Etapp 2' => array('R 2', 'P SKO', 'P ORD', 'TP 2', 'FP 2'),
+    'Etapp 2' => array('R 2', 'P SEN', 'TP 2', 'FP 2'),
     'Totalt efter Etapp 2' => array('*sumcomp*', 'Etapp 1', 'Etapp 2'),
 
-    'Etapp 3' => array('R 3', 'P SÖK', 'P VAD', 'TP 3', 'FP 3'),
+    'Etapp 3' => array('R 3', 'P SHA', 'TP 3', 'FP 3'),
     'Totalt efter Etapp 3' => array('*sumcomp*', 'Totalt efter Etapp 2', 'Etapp 3'),
 
     // '*picture*Etapp 4 - Med Melodikrysset:Musikkryss.png',
@@ -133,14 +124,14 @@ $parts = array(
         '*picture*Var är stjälptallriken?:sexa_a.jpg',
         '*picture*VAR är stjälptallriken?:sexa_b.jpg',
         '*picture*DÄR är stjälptallriken!:sexa_c.jpg',
-        'R 4','P SYS', 'P MUS', 'TP 4', 'FP 4', 'Tid L'),
+        'R 4','P GOD', 'P MUS', 'TP 4', 'FP 4', 'Tid L'),
     'Totalt efter Etapp 4' => array('*sumcomp*', 'Totalt efter Etapp 3', 'Etapp 4 - Med Melodikrysset'),
 
     'Lunch' =>
     array(
-        'P NÖR',
-        'P BÖN',
-        'P DÖR',
+        'P BLO',
+        'P IDI',
+        'P RÖD',
         '*picture*Stjälpfotoplock:stjälp2.png',
         'ÖppPlk',
         'StjPlk',
@@ -162,16 +153,16 @@ $parts = array(
     ),
     'Totalt efter Lunch' => array('*sumcomp*', 'Totalt efter Etapp 4', 'Lunch'),
 
-    'Etapp 5' => array('R 5', 'P KLI', 'P HAK', 'TP 5', 'FP 5'),
+    'Etapp 5' => array('R 5', 'P NON', 'TP 5', 'FP 5'),
     'Totalt efter Etapp 5' => array('*sumcomp*', 'Totalt efter Lunch', 'Etapp 5'),
 
-    'Etapp 6' => array('R 6', 'P STA', 'P LAG', 'TP 6', 'FP 6'),
+    'Etapp 6' => array('R 6', 'P LJU', 'P KEX', 'TP 6', 'FP 6'),
     'Totalt efter Etapp 6' => array('*sumcomp*', 'Totalt efter Etapp 5', 'Etapp 6'),
 
-    'Etapp 7' => array('R 7', 'P MAT', 'P SUN', 'TP 7', 'FP 7'),
+    'Etapp 7' => array('R 7', 'P MUT', 'TP 7', 'FP 7'),
     'Totalt efter Etapp 7' => array('*sumcomp*', 'Totalt efter Etapp 6', 'Etapp 7'),
 
-    'Etapp 8' => array('R 8', 'P SYN', 'TP 8', 'FP 8', 'Tid M'),
+    'Etapp 8' => array('R 8', 'P OMG', 'P SYN', 'TP 8', 'FP 8', 'Tid M'),
 
     // PRISUTDELNINGAR
     '*picture*Prisutdelning:nobel.jpg',
