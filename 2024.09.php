@@ -5,21 +5,26 @@ require_once 'slide.php';
 $teams = array(
     // Name => (number, number of members, flair)
     // Available flairs: <small>, <blue>, <smallblue>, <free>, <legends>
-    'Viktat Projektivt Rum'        => array(1, 6),
-    'Enar Åkered'                  => array(2, 8, '<free>'),
-    'RRL för Claes Elfsberg'       => array(3, 8, '<free>'),
-    'Ibsens Kusiner'               => array(4, 8),
-    'Senaste Laget'                => array(5, 8),
-    'Tegalreden'                   => array(6, 3),
-    'Så att säga'                  => array(7, 3, '<small>'),
-    'Battes Barlast'               => array(8, 11, '<small>'),
-    'Katlas Kompisar'              => array(9, 9, '<free>'),
+    'Viktat Projektivt Rum'        => array(1, 9),
+    'Enar Åkered'                  => array(2, 9, '<free>'),
+    'Golden Goobers'               => array(3, 9, '<blue>'),
+    'Ibsens Kusiner'               => array(4, 9),
+    'Femte gången gillt'           => array(5, 9),
+    'Senaste Laget'                => array(6, 8),
+    'Så att säga'                  => array(7, 3, '<small'), 
+    'Katlas Kompisar'              => array(8, 9, '<free>'),
     'Öset Luhring'                 => array(10, 8, '<legends>'),
     'Sötgötarna'                   => array(11, 7),
+    'RRL för Claes Elfsberg'       => array(13, 9),
+    'Buzzin'                       => array(14, 9, '<blue>'),
     'Ingenjörer på gränsen'        => array(42, 8),
     'Trial & Error'                => array(88, 9),
-    'Blodbussen'                   => array(112, 1)
+    'Webus Express'                => array(112, 9, '<free>'),
+    'Lag 16'                => array(16, 9, '<smallblue>'),
+    'Lag 17'                => array(17, 9, '<smallblue>')
 );
+
+//Lag 16 och 17 inlagda då jag får error när jag minskar antal lag...
 
 $bluerebus = array();
 
