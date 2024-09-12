@@ -1,7 +1,9 @@
-\rebus MORBATJOVSFRYPIRÖG \upphovsman Jonas Lindh
-\op M->G, Ö->O, +S
-GORBATJOVS FRYSPIROG
+\rebus FLÄDIHALLINDPERN \upphovsman Tova1
+\op (i)
+HALLINDPFLÄDERN
+\op I->A, P->S
+HALLANDSFLÄDERN
 \op !
-GORBYS
-\op G->M, O->Ö, -S
-\ort MÖRBY
+SNAPSEN
+\op A->I, S->P
+\ort SNIPPEN

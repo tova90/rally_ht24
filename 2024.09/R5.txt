@@ -1,3 +1,4 @@
-Demonstration: Två personer som kramas baklänges \upphovsman Karl Södrén
+Demonstration: En kille med "-L" på tröjan 
 \op !
-\ort MARK
+KILLEN - L
+\ort KILEN

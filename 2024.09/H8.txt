@@ -1,11 +1,9 @@
-\rebus LÄRDOMMNA \upphovsman Marcus Eriksson
-\op =
-LÄRD OM MNA
-\op (om)
-LÄR MNA D
-\op -R
-LÄMNAD
-\op !
-ÖVERGIVEN
-\op +R
-\ort ÖVERGIVERN
+\rebus 61110050057501 \upphovsman Denise
+\op <->
+10575005001116
+\op gruppera
+10 57 500 500 11 16 
+\op ! per.sys. & romerska siffror
+Ne La D D Na S
+\op <->
+\ort SANDDALEN

@@ -1,9 +1,7 @@
-\rebus GNMAFMON \upphovsman Jonas Lindh
-\op <->
-NOMFAMNG
-\op i
-OMFAMN I NG
+\rebus 6670KMVATTEK \upphovsman Tova1
+\op K->N
+6670 KM VATTEN
 \op !
-KRAM
+NILEN
 \op <->
-\ort MARK
+\ort KILEN

@@ -1,13 +1,9 @@
-\rebus NAKITKARPTTÅM \upphovsman Johannes Isaksson
-\op <->
-MÅTTPRAKTIKAN
-\op (i)
-PRAKTIK I MÅTTAN
-\op -M
-PRAKTIK I ÅTTAN
+\rebus STJLÖNOMÄRTHA \upphovsman Howe
+\op (om)
+STJÄRTHALÖN
+\op +V
+STJÄRTHALVÖN
 \op !
-PRAO
-\op +M
-PRAOM
-\op <->
-\ort MOARP
+RÖVUDDEN
+\op -V
+\ort RÖUDDEN

@@ -1,9 +1,9 @@
-\rebus SLINGJORQUG \upphovsman Malin Lindh
-\op (i)
-GJORQU I SLING
-\op +D, +E
-GJORDE QUISLING
+\rebus TERINA \upphovsman Becks
+\op (omvänd i)
+INITERA
+\op N->M
+IMITERA
 \op !
-FÖRRÅDDE
-\op -D, -E
-\ort FÖRRÅD
+härma
+\op M->N
+\ort HÄRNA

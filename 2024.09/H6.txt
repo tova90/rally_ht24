@@ -1,7 +1,9 @@
-\rebus FOLINTAFARTSPÄRRSARNA \upphovsman Jonas Lindh
-\op -O, -S
-FLINTAFARTSPÄRRARNA
+\rebus NBRYMARTI \upphovsman Tova1
+\op (omvänd  i)
+BRYMARTINI 
+\op B->D
+DRYMARTINI
 \op !
-STENBROMSARNA
-\op +O, +S
-\ort STENBROMOSSARNA
+DRINK
+\op D->B
+\ort BRINK

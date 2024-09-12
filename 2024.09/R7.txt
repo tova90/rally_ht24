@@ -1,11 +1,9 @@
-\rebus GOYLE \upphovsman Karl Södrén
-\op <->
-ELYOG
-\op +E, -Y
-ELOGE
+\rebus ESNAPPSNLEDNOMUTFÖR \upphovsman Tova1
+\op (om)
+ESNAPPSNUTFÖRLEDN
+\op -E, -N
+SNAPPSNUTFÖRLED
 \op !
-BERÖM
-\op -E, +Y
-YBRÖM
-\op <->
-\ort MÖRBY
+SNIPP
+\op  +E, +N
+\ort SNIPPEN

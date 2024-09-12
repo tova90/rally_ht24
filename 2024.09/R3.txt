@@ -1,7 +1,11 @@
-\rebus SANSLIP \upphovsman Jonas Lindh
-\op S->K, -P
-KANSLI
+\rebus WALORWNÅRFRNAM \upphovsman Becks
+\op <->
+MANRFRÅNWROLAW
+\op  -R, +C
+MAN FRÅN WROCLAW
 \op !
-KONTOR
-\op K->S, +P
-\ort SONTORP
+POLACK
+\op <->
+KCALOP
+\op  +R, -C
+\ort KALORP
