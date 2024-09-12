@@ -4,6 +4,6 @@ INITERA
 \op N->M
 IMITERA
 \op !
-härma
+HÄRMA
 \op M->N
 \ort HÄRNA
