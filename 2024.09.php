@@ -120,10 +120,7 @@ $parts = array(
     'Totalt efter Etapp 3' => array('*sumcomp*', 'Totalt efter Etapp 2', 'Etapp 3'),
 
     // '*picture*Etapp 4 - Med Melodikrysset:Musikkryss.png',
-    'Etapp 4 - Med Melodikrysset' => array(
-        '*picture*Var är stjälptallriken?:sexa_a.jpg',
-        '*picture*VAR är stjälptallriken?:sexa_b.jpg',
-        '*picture*DÄR är stjälptallriken!:sexa_c.jpg',
+    'Etapp 4' => array(
         'R 4','P GOD', 'P MUS', 'TP 4', 'FP 4', 'Tid L'),
     'Totalt efter Etapp 4' => array('*sumcomp*', 'Totalt efter Etapp 3', 'Etapp 4 - Med Melodikrysset'),
 
@@ -169,8 +166,8 @@ $parts = array(
 
     // Stilpris
     '*picture*Stilpriset:stylish.png',
+    // Här kan det vara kul att lägga några bilder från dagen
     '*sorted*Stil',
-    '*picture*Trial & Error:födelsedag.jpg',
 
     // Plockpris
     '*picture*Bästa plockare:plock.jpg',
@@ -181,15 +178,15 @@ $parts = array(
           'ÖppPlk', 'StjPlk', 'ÖppTlk', 'StjTlk'),
 
     // Pysselpriset
-    '*picture*Pysselpriset:pyssel.jpg',
+    '*picture*Pysselpriset:pyssel.jpg', //
     'Pyssel totalt' =>
     array('*sum*',
-    'P APR', 'P DEF', 'P SKO', 'P ORD', 'P SÖK', 'P VAD', 'P SYS', 'P MUS',
-    'P KLI', 'P HAK', 'P STA', 'P LAG', 'P MAT', 'P SUN', 'P SYN', 'P NÖR',
-    'P BÖN', 'P DÖR'),
+    'P MUS', 'P SHA', 'P SEN', 'P GOD', 'P TEM', 'P IDI', 'P BLO',
+    'P RÖD', 'P NON', 'P LJU', 'P KEX', 'P MUT', 'P OMG', 'P SYN'),
+
 
     // Rebuspriset
-    '*picture*Rebuspriset:a-dur.png',
+    //'*picture*Rebuspriset:a-dur.png', Lägg in bild på rebuspriset
     'Rebusar totalt' =>
     array('*sum*',
           'ÖppReb', 'S 1', 'S 2', 'S 3', 'S 4',
@@ -200,12 +197,12 @@ $parts = array(
     '*picture*Och vinnaren är...:resultat.png',
     'Slutresultat' => array('*sum*', 'Totalt efter Etapp 7', 'Etapp 8', 'Stil'),
     'Ständiga tvåan' => array('*sum*', 'Totalt efter Etapp 7', 'Etapp 8', 'Stil'),
-    //'Blåbärspriset' => array('*sum*', 'Totalt efter Etapp 7', 'Etapp 8', 'Stil'),
+    'Blåbärspriset' => array('*sum*', 'Totalt efter Etapp 7', 'Etapp 8', 'Stil'),
     'Bästa småbil' => array('*sum*', 'Totalt efter Etapp 7', 'Etapp 8', 'Stil'),
     'Bästa utlänska lag' => array('*sum*', 'Totalt efter Etapp 7', 'Etapp 8', 'Stil'),
     'Mittenpriset' => array('*sum*', 'Totalt efter Etapp 7', 'Etapp 8', 'Stil'),
-    //'Sura trean' => array('*sum*', 'Totalt efter Etapp 7', 'Etapp 8', 'Stil'),
-    '*picture*Grattis Blodbussen!:trophy.jpg',
+    'Sura trean' => array('*sum*', 'Totalt efter Etapp 7', 'Etapp 8', 'Stil'),
+    '*picture*Grattis!:trophy.jpg', //Skriv in vinnande lag här
     );
 
 
