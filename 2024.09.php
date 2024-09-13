@@ -104,12 +104,12 @@ $events = array(
 
 # TODO: Har detta kvar att fylla i, samt bilder och färger
 $parts = array(
-    '*picture*Rebusrally April 2024:rally-2024-title-card.png',
+    '*picture*Rebusrally September 2024:firstpage.png',
 
     // Om du vill ha en bild som representerar Etapp #n så kan du bara spara en bild
     // med namn 'etapp1.jpg' eller 'etapp4.png' i din resultatmapp så kommer den 
     // automagiskt att bli visad.
-    '*picture*Rallykarta VT2024:karta.jpg',
+    '*picture*Rallykarta HT2024:karta.jpg',
 
     'Etapp 1' => array('Tid S', 'R 1', 'P GOD', 'TP 1', 'FP 1'),
 
