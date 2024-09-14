@@ -1,0 +1,7 @@
+\rebus SNIRREN \upphovsman Denise
+\op I->O
+SNORREN
+\op !
+SNOPPEN
+O->I
+\ort SNIPPEN

@@ -1,0 +1,9 @@
+\rebus NEVAGN \upphovsman Becks
+\op (omvänd i)
+VAG I NEN
+\op E->A
+VAGINAN
+\op !
+SNIPPAN
+A->E
+\ort SNIPPEN

@@ -1,5 +1,5 @@
 <?php
-//TODO: fixa loggan
+
 require_once 'slide.php';
 
 $teams = array(
@@ -9,7 +9,7 @@ $teams = array(
     'Enar Åkered'                  => array(2, 9, '<free>'),
     'Golden Goobers'               => array(3, 9, '<blue>'),
     'Ibsens Kusiner'               => array(4, 9),
-    'Femte gången gillt'           => array(5, 9),
+    //'Femte gången gillt'           => array(5, 9),
     'Senaste Laget'                => array(6, 8),
     'Så att säga'                  => array(7, 3, '<small'), 
     'Katlas Kompisar'              => array(8, 9, '<free>'),
@@ -19,14 +19,10 @@ $teams = array(
     'Buzzin'                       => array(14, 9, '<blue>'),
     'Ingenjörer på gränsen'        => array(42, 8),
     'Trial & Error'                => array(88, 9),
-    'Webus Express'                => array(112, 9, '<free>'),
-    'Lag 16'                => array(16, 9, '<smallblue>'),
-    'Lag 17'                => array(17, 9, '<smallblue>')
+    'Webus Express'                => array(112, 9, '<free>')
 );
 
-//Lag 16 och 17 inlagda då jag får error när jag minskar antal lag...
-
-$bluerebus = array();
+$bluerebus = array(2, 3, 4, 6, 7);
 
 $events = array(
     // Rebusar
@@ -53,6 +49,10 @@ $events = array(
     'S 11' => 'Stjälp 11',
     'S 12' => 'Stjälp 12',
 
+    // Blåbärshjälp
+    'X 2' => 'Blåbärhjälp 2',
+    //'S 13' => 'Blåbärhjälp 3',
+
     'ÖppReb' => 'Öppnat stjälprebuskuvertet',
 
     'ÖppPlk' => 'Öppnat stjälpfotoplockkuvertet',
@@ -63,8 +63,8 @@ $events = array(
 
 //Pyssel
     'P MUS' => 'Pyssel: Melodikrysset',
-    'P SHA' => 'Pyssel: Vad händer i Shakespears pjäser',
-    'P SEN' => 'Pyssel: Vad kommer härnäst och även därefter',
+    'P SHA' => 'Pyssel: Vad händer i Shakespears pjäser?',
+    'P SEN' => 'Pyssel: Vad kommer sen, och därefter?',
     'P GOD' => 'Pyssel: Godis är gott',
     'P TEM' => 'Pyssel: Teman',
     'P IDI' => 'Pyssel: Idiotfrågan',
@@ -113,7 +113,7 @@ $parts = array(
 
     'Etapp 1' => array('Tid S', 'R 1', 'P GOD', 'TP 1', 'FP 1'),
 
-    'Etapp 2' => array('R 2', 'P SEN', 'TP 2', 'FP 2'),
+    'Etapp 2' => array( 'R 2', 'X 2', 'P SEN', 'TP 2', 'FP 2'),
     'Totalt efter Etapp 2' => array('*sumcomp*', 'Etapp 1', 'Etapp 2'),
 
     'Etapp 3' => array('R 3', 'P SHA', 'TP 3', 'FP 3'),

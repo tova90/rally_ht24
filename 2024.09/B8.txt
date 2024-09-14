@@ -1,0 +1,6 @@
+//Kopia av X8, är egentligen blåbärshjälp 8
+\rebus ÖKSÄNKANNEN \upphovsman Becks
+\op (omvänd i)
+SÄNKAN I ÖKNEN
+\op !
+\ort SANDDALEN

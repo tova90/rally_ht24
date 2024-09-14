@@ -1,0 +1,7 @@
+\rebus HUMANSGRYRTA \upphovsman Tova1
+\op  +S,-R
+HUSMANSGRYTA
+\op !
+KALOPS
+\op -S, +R
+\ort KALORP

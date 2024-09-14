@@ -1,0 +1,7 @@
+\rebus ENERGPENHET \upphovsman Tova1/Denise?
+\op  P->I
+ENERGIENHET
+\op !
+KALORI
+\op I->P
+\ort KALORP

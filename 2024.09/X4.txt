@@ -1,0 +1,9 @@
+\rebus MEDHJEOMLÄD \upphovsman Tova1
+\op (om)
+MEDHLÄDJE
+\op  H->G
+MED GLÄDJE
+\op !
+GÄRNA
+\op  G->H
+\ort HÄRNA

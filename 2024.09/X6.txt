@@ -1,0 +1,7 @@
+\rebus KORTVARIGTBRUND \upphovsman Amanda
+\op R->L, +A
+KORTVARIGTBLUNDA
+\op !
+BLINKA
+\op L->R, -A
+\ort BRINK
