@@ -1,4 +1,3 @@
-//Kopia av X2, är egentligen blåbärshjälp 2
 \rebus TUTUIBÅRENMEDÅRÖR \upphovsman Tova1
 \op (i)
 BÅTUTURENMEDÅRÖR

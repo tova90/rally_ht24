@@ -3,7 +3,7 @@
 10575005001116
 \op gruppera
 10 57 500 500 11 16 
-\op ! per.sys. & romerska siffror
+\op ! (per. sys. & romerska siffror)
 Ne La D D Na S
 \op <->
 \ort SANDDALEN

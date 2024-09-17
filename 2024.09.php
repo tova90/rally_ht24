@@ -127,14 +127,14 @@ $parts = array(
     // '*picture*Etapp 4 - Med Melodikrysset:Musikkryss.png',
     'Etapp 4' => array(
         'R 4', '*picture*Blåbärshjälp:BH4.png', 'P GOD', 'P MUS', 'TP 4', 'FP 4', 'Tid L'),
-    'Totalt efter Etapp 4' => array('*sumcomp*', 'Totalt efter Etapp 3', 'Etapp 4 - Med Melodikrysset'),
+    'Totalt efter Etapp 4' => array('*sumcomp*', 'Totalt efter Etapp 3', 'Etapp 4'),
 
     'Lunch' =>
     array(
         'P BLO',
         'P IDI',
         'P RÖD',
-        '*picture*Stjälpfotoplock:stjälp2.png',
+        '*picture*Stjälpfotoplock:stjälpplock.png',
         'ÖppPlk',
         'StjPlk',
         '*picture*Stjälptallriksplock:stjälptallrik.png',

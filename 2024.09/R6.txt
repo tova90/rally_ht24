@@ -1,7 +1,7 @@
 \rebus 73519 \upphovsman Tova1
 \op gruppera
 7 35 19
-\op per. sys.
+\op ! (per. sys.)
 N Br K
 \op (omvänd i)
 Br i NK
