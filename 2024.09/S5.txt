@@ -1,7 +1,13 @@
-\rebus ORDPSÄTTMANICKEN \upphovsman Malin Lindh
-\op S->L, +J
-JORDPLÄTTMANICKEN
+\rebus TAETTNEDUTSKAMRESÖB \upphovsman Tova1/Howe
+\op (omvänd i)
+TNEDUTSK I TAETAMRESÖB
+\op <->
+BÖSERMATEATIKSTUDENT
+\op B>L, +M
+LÖSER MATEMATIKSTUDENT
 \op !
-LANDMOJÄNGEN
-\op L->S, -J
-\ort SANDMOÄNGEN
+PROBLEM
+\op L>B, -M
+PROBBE
+\op <->
+\ort EBBORP

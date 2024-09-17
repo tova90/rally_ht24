@@ -1,11 +1,7 @@
-\rebus MKEXTITEXEMPEL \upphovsman Karl Södrén
-\op -K
-MEXTITEXEMPEL
+\rebus DENMETOOCNT \upphovsman Becks
 \op (i)
-TEX MEXT EMPEL
-\op =
-TEXMEXTEMPEL
+NMETOOCIDENT
+\op (i)
+ME TOO INCIDENT
 \op !
-SANTA MARIA KYRKA
-\op +K
-\ort SANKTA MARIA KYRKA
+\ort TAFSFALL

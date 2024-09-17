@@ -1,7 +1,9 @@
-\rebus 5124511291601 \upphovsman Malin Lindh
-\op <->
-10 61 92 1 15 42 15
-\op per. sys.
-Ne Pm U H P Mo P
-\op <->
-\ort POMPHUMPEN
+\rebus VEQUARHELMERBRYDSEMINENTFTETLÅTT \upphovsman Howe
+\op (omvänd i)
+HELMERBRYDSEMINENTF I VEQUARTETLÅTT
+\op -T
+HELMER BRYDS EMINENT FIVE QUARTET LÅT
+\op !
+NORGE
+\op +T
+\ort NORGET

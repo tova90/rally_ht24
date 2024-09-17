@@ -1,9 +1,13 @@
-\rebus TORPFÖRDOMIGOTLE \upphovsman Jonas Lindh
-\op (om)
-TORPFÖR IGOTLE D
-\op (i)
-GOT TORPFÖR LED
-\op =
-GOTTORPFÖRLED
-\op !
-\ort HOLSTEIN
+\rebus TTXESULPOIR \upphovsman Tova1
+\op <->
+RIOPLUSEXTT
+\op R->N, -X
+NIO PLUS ETT
+\op ! (addition)
+10
+\op ! (per.sys.)
+NEON
+\op <->
+NOEN
+\op N->R, +X
+\ort ROXEN

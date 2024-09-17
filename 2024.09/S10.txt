@@ -1,11 +1,13 @@
-\rebus TARKRU \upphovsman Karl Södrén
+\rebus SNDERGNITFYDE \upphovsman Tomas
 \op <->
-URKRAT
-\op +O
-URKROAT
+EDYFTINGREDNS
+\op (omvänd i)
+DYFTINGRED I ENS
+\op Y->O
+DOFTINGREDIENS
 \op !
-PROTOSLAV
-\op -O
-PROTSLAV
+AROM
 \op <->
-\ort VALSTORP
+MORA
+\op O->Y
+\ort MYRA

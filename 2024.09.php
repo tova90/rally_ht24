@@ -15,8 +15,9 @@ $teams = array(
     'Katlas Kompisar'              => array(8, 9, '<free>'),
     'Öset Luhring'                 => array(10, 8, '<legends>'),
     'Sötgötarna'                   => array(11, 7),
+    'Buzzin'                       => array(12, 9, '<blue>'),
     'RRL för Claes Elfsberg'       => array(13, 9),
-    'Buzzin'                       => array(14, 9, '<blue>'),
+    'Tegalreden'                  => array(14, 5, '<small'), 
     'Ingenjörer på gränsen'        => array(42, 8),
     'Trial & Error'                => array(88, 9),
     'Webus Express'                => array(112, 9, '<free>')
@@ -51,7 +52,11 @@ $events = array(
 
     // Blåbärshjälp
     'X 2' => 'Blåbärhjälp 2',
-    //'S 13' => 'Blåbärhjälp 3',
+    'X 3' => 'Blåbärhjälp 3',
+    'X 4' => 'Blåbärhjälp 4',
+    'X 6' => 'Blåbärhjälp 6',
+    'X 7' => 'Blåbärhjälp 7',
+    'X 8' => 'Blåbärhjälp 8',
 
     'ÖppReb' => 'Öppnat stjälprebuskuvertet',
 
@@ -113,15 +118,15 @@ $parts = array(
 
     'Etapp 1' => array('Tid S', 'R 1', 'P GOD', 'TP 1', 'FP 1'),
 
-    'Etapp 2' => array( 'R 2', 'X 2', 'P SEN', 'TP 2', 'FP 2'),
+    'Etapp 2' => array( 'R 2', '*picture*Blåbärshjälp:BH2.png', 'P SEN', 'TP 2', 'FP 2'),
     'Totalt efter Etapp 2' => array('*sumcomp*', 'Etapp 1', 'Etapp 2'),
 
-    'Etapp 3' => array('R 3', 'P SHA', 'TP 3', 'FP 3'),
+    'Etapp 3' => array('R 3', '*picture*Blåbärshjälp:BH3.png','P SHA', 'TP 3', 'FP 3'),
     'Totalt efter Etapp 3' => array('*sumcomp*', 'Totalt efter Etapp 2', 'Etapp 3'),
 
     // '*picture*Etapp 4 - Med Melodikrysset:Musikkryss.png',
     'Etapp 4' => array(
-        'R 4','P GOD', 'P MUS', 'TP 4', 'FP 4', 'Tid L'),
+        'R 4', '*picture*Blåbärshjälp:BH4.png', 'P GOD', 'P MUS', 'TP 4', 'FP 4', 'Tid L'),
     'Totalt efter Etapp 4' => array('*sumcomp*', 'Totalt efter Etapp 3', 'Etapp 4 - Med Melodikrysset'),
 
     'Lunch' =>
@@ -153,13 +158,13 @@ $parts = array(
     'Etapp 5' => array('R 5', 'P NON', 'TP 5', 'FP 5'),
     'Totalt efter Etapp 5' => array('*sumcomp*', 'Totalt efter Lunch', 'Etapp 5'),
 
-    'Etapp 6' => array('R 6', 'P LJU', 'P KEX', 'TP 6', 'FP 6'),
+    'Etapp 6' => array('R 6', '*picture*Blåbärshjälp:BH6.png', 'P LJU', 'P KEX', 'TP 6', 'FP 6'),
     'Totalt efter Etapp 6' => array('*sumcomp*', 'Totalt efter Etapp 5', 'Etapp 6'),
 
-    'Etapp 7' => array('R 7', 'P MUT', 'TP 7', 'FP 7'),
+    'Etapp 7' => array('R 7', '*picture*Blåbärshjälp:BH7.png', 'P MUT', 'TP 7', 'FP 7'),
     'Totalt efter Etapp 7' => array('*sumcomp*', 'Totalt efter Etapp 6', 'Etapp 7'),
 
-    'Etapp 8' => array('R 8', 'P OMG', 'P SYN', 'TP 8', 'FP 8', 'Tid M'),
+    'Etapp 8' => array('R 8', '*picture*Blåbärshjälp:BH8.png', 'P OMG', 'P SYN', 'TP 8', 'FP 8', 'Tid M'),
 
     // PRISUTDELNINGAR
     '*picture*Prisutdelning:nobel.jpg',

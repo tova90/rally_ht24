@@ -1,9 +1,7 @@
-\rebus RETÖRIMISDEN \upphovsman Karl Södrén
+\rebus TERATSOMAVIRESPAL \upphovsman Becks
+\op (om)
+TER AVIRESPAL ATS
 \op (i)
-IMISD I RETÖR EN
-\op +K, M->B
-IBISDIREKTÖREN
+RESTER AV PALATS
 \op !
-STORKBOSSEN
-\op -K, B->M
-\ort STORMOSSEN
+\ort SLOTTSRUIN

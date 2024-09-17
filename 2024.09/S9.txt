@@ -1,11 +1,13 @@
-\rebus ANDESLEDHORNSISKRUTTDJUR \upphovsman Malin Lindh
-\op (i)
-SKRUTTANDESLEDHORNSDJUR
-\op E->I, -R
-SKUTTANDE SLIDHORNSDJUR
+\rebus SOSRERIGESTELEVN \upphovsman Tova1
+\op (omvänd i)
+OSRERIGESTELEV I SN
+\op (omvänd i)
+SRERIGESTELEVISION
+\op R->V
+SVERIGES TELEVISION
 \op !
-ANTILOP
-\op I->E, +R
-ANTELORP
-\op (i)
-\ort ELIANTORP
+SVT
+\op V->R
+SRT
+\op (omvänd i)
+\ort RIST

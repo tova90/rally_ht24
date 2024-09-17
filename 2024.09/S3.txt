@@ -1,9 +1,12 @@
-\rebus SWEAAIL-ER \upphovsman Malin Lindh
-\op (i)
-L- SWEAA ER
-\op A->T
-L-SWEATER
+\rebus PKSK \upphovsman Howe/Tova1
+\op omvänd i
+KS I PK
+\rebus KSIPK \upphovsman Howe (Ev gör om till PKSK och lägg till en omvänd i)
+\op <->
+KPISK
+\op -K
+PISK
 \op !
-STOR TRÖJA
-\op T->A
-\ort STORA RÖJA
+AGA
+\op <->, +K
+\ort KAGA

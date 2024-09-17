@@ -1,11 +1,7 @@
-\rebus OCKLILBE \upphovsman Johannes Isaksson
-\op (i)
-LB OCKL E
-\op (i)
-L I LBOCKE
-\op +L, +N
-LILLBOCKEN
+\rebus NÖTVLURPA \upphovsman Tova1
+\op -L
+NÖTVURPA
 \op !
-KILLINGEN
-\op -L, -N
-\ort KILINGE
+KOFALL
+\op +L
+\ort KOLFALL

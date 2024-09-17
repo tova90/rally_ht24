@@ -1,13 +1,11 @@
-\rebus RGYTRAKSFOJTDF \upphovsman Malin Lindh
-\op (i)
-GYTRAKSFOJTD I RF
+\rebus TTKIRÅLLÅHPGNÅGG \upphovsman Tova1
 \op <->
-FRIDTJOFSKARTYG
-\op K->F
-FRIDTJOFSFARTYG
+GGÅNGPHÅLLÅRIKTT
+\op (omvänd i)
+GÅNGPHÅLLÅRIKT I GT
+\op (omvänd i)
+HÅLL I GÅNGPÅRIKTIGT
 \op !
-FRAM
-\op F->K
-KRAM
+ÖS IRL
 \op <->
-\ort MARK
+\ort L RISÖ

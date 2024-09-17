@@ -1,7 +1,9 @@
-\orgbild a-dur.png \upphovsman Johannes Isaksson
-\op <->
-\orgbild a-dur_rättvänd.png
+\rebus 2NHÄSIHORTEN \upphovsman Tova1
+\op -2
+NHÄSIHORTEN
+\op (i)
+HORNHÄSTEN
 \op !
-A-DUR
-\op <->
-\ort RUDA
+ENHÖRNINGEN
+\op +2, ! (addition)
+\ort TREHÖRNINGEN
