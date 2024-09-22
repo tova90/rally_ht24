@@ -57,6 +57,9 @@ foreach ($parts as $part => $data) {
                         array_push($actions, new SolutionSlide('B', $n));
                     }
                     array_push($actions, new SolutionSlide('H', $n));
+                    if (in_array($n, $GLOBALS['bluehelprebus'])) {
+                        array_push($actions, new SolutionSlide('J', $n));
+                    }
                     array_push($actions, new EventSlide($eventName, $e));
                 }
                 elseif (preg_match('/^S ([0-9]+)/', $e, $matches)) {

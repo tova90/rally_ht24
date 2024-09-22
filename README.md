@@ -195,8 +195,8 @@ stjälprebusarna och ett totalresult efter lunchen.
 Rebusar
 -------
 
-Rebusar ska ha filnamn `Rn.txt`, `Hn.txt`, `Bn.txt`, `Xn.txt` eller `Sn.txt` för vanliga rebusar,
-hjälprebusar, blåbärsrebusar, bonusrebusar eller stjälprebusar, där n är numret på rebusen. För att göra
+Rebusar ska ha filnamn `Rn.txt`, `Hn.txt`, `Bn.txt`, `Jn.txt`, `Xn.txt` eller `Sn.txt` för vanliga rebusar,
+hjälprebusar, blåbärsrebusar, blåbärshjälprebusar, bonusrebusar eller stjälprebusar, där n är numret på rebusen. För att göra
 alternativlösningar kan man byta ut siffran mot valfri text och sedan använda
 t.ex. '*solution*S<text>' som beskrivs ovan.
 
@@ -204,7 +204,9 @@ Blåbärs-rebusar visas bara om de är med i arrayen bluerebus. Exempel:
 
 $bluerebus = array(2, 3, 4, 6, 7, 8);
 
-Vill man inte ha några blåbärsrebusar gör man en tom array.
+Blåbärshjälprebusar visas bara om de är med i arrayen bluehelprebus. Exempel:
+$bluehelprebus = array(2, 3);
+Vill man inte ha några blåbärsrebusar gör man två tomma arrayer.
 
 I rebusfilerna kan man använda dessa taggar:
 
