@@ -7,20 +7,20 @@ $teams = array(
     // Available flairs: <small>, <blue>, <smallblue>, <free>, <legends>
     'Viktat Projektivt Rum'        => array(1, 9),
     'Enar Åkered'                  => array(2, 9, '<free>'),
-    'Golden Goobers'               => array(3, 9, '<blue>'),
-    'Ibsens Kusiner'               => array(4, 9),
+    'Senaste Laget'                => array(3, 8),
+    'Golden Goobers'               => array(4, 9, '<blue>'),
     //'Femte gången gillt'           => array(5, 9),
-    'Senaste Laget'                => array(6, 8),
+    'Ibsens Kusiner'               => array(6, 9),
     'Så att säga'                  => array(7, 3, '<small'), 
     'Katlas Kompisar'              => array(8, 9, '<free>'),
     'Öset Luhring'                 => array(10, 8, '<legends>'),
     'Sötgötarna'                   => array(11, 7),
     'Buzzin'                       => array(12, 9, '<blue>'),
     'RRL för Claes Elfsberg'       => array(13, 9),
-    'Tegalreden'                  => array(14, 5, '<small'), 
+    'Tegalreden'                  => array(15, 5, '<small'), 
     'Ingenjörer på gränsen'        => array(42, 8),
     'Trial & Error'                => array(88, 9),
-    'Webus Express'                => array(112, 9, '<free>')
+    'Webus Express'                => array(828, 9, '<free>')
 );
 
 $bluerebus = array(3, 4, 6, 7);
