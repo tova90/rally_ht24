@@ -23,7 +23,8 @@ $teams = array(
     'Webus Express'                => array(112, 9, '<free>')
 );
 
-$bluerebus = array(2, 3, 4, 6, 7);
+$bluerebus = array(3, 4, 6, 7);
+$bluehelprebus = array(2, 3, 4, 6, 7, 8);
 
 $events = array(
     // Rebusar
@@ -107,7 +108,6 @@ $events = array(
     'FP 8' => 'Fotoplock 8',
 );
 
-# TODO: Har detta kvar att fylla i, samt bilder och färger
 $parts = array(
     '*picture*Rebusrally September 2024:firstpage.png',
 
@@ -118,15 +118,15 @@ $parts = array(
 
     'Etapp 1' => array('Tid S', 'R 1', 'P GOD', 'TP 1', 'FP 1'),
 
-    'Etapp 2' => array( 'R 2', '*picture*Blåbärshjälp:BH2.png', 'P SEN', 'TP 2', 'FP 2'),
+    'Etapp 2' => array( 'R 2', 'P SEN', 'TP 2', 'FP 2'),
     'Totalt efter Etapp 2' => array('*sumcomp*', 'Etapp 1', 'Etapp 2'),
 
-    'Etapp 3' => array('R 3', '*picture*Blåbärshjälp:BH3.png','P SHA', 'TP 3', 'FP 3'),
+    'Etapp 3' => array('R 3','P SHA', 'TP 3', 'FP 3'),
     'Totalt efter Etapp 3' => array('*sumcomp*', 'Totalt efter Etapp 2', 'Etapp 3'),
 
     // '*picture*Etapp 4 - Med Melodikrysset:Musikkryss.png',
     'Etapp 4' => array(
-        'R 4', '*picture*Blåbärshjälp:BH4.png', 'P GOD', 'P MUS', 'TP 4', 'FP 4', 'Tid L'),
+        'R 4', 'P GOD', 'P MUS', 'TP 4', 'FP 4', 'Tid L'),
     'Totalt efter Etapp 4' => array('*sumcomp*', 'Totalt efter Etapp 3', 'Etapp 4'),
 
     'Lunch' =>
@@ -158,13 +158,13 @@ $parts = array(
     'Etapp 5' => array('R 5', 'P NON', 'TP 5', 'FP 5'),
     'Totalt efter Etapp 5' => array('*sumcomp*', 'Totalt efter Lunch', 'Etapp 5'),
 
-    'Etapp 6' => array('R 6', '*picture*Blåbärshjälp:BH6.png', 'P LJU', 'P KEX', 'TP 6', 'FP 6'),
+    'Etapp 6' => array('R 6', 'P LJU', 'P KEX', 'TP 6', 'FP 6'),
     'Totalt efter Etapp 6' => array('*sumcomp*', 'Totalt efter Etapp 5', 'Etapp 6'),
 
-    'Etapp 7' => array('R 7', '*picture*Blåbärshjälp:BH7.png', 'P MUT', 'TP 7', 'FP 7'),
+    'Etapp 7' => array('R 7', 'P MUT', 'TP 7', 'FP 7'),
     'Totalt efter Etapp 7' => array('*sumcomp*', 'Totalt efter Etapp 6', 'Etapp 7'),
 
-    'Etapp 8' => array('R 8', '*picture*Blåbärshjälp:BH8.png', 'P OMG', 'P SYN', 'TP 8', 'FP 8', 'Tid M'),
+    'Etapp 8' => array('R 8', 'P OMG', 'P SYN', 'TP 8', 'FP 8', 'Tid M'),
 
     // PRISUTDELNINGAR
     '*picture*Prisutdelning:nobel.jpg',
