@@ -1,9 +1,9 @@
-\rebus VEQUARHELMERBRYDSEMINENTFTETLÅTT \upphovsman Howe
-\op (omvänd i)
-HELMERBRYDSEMINENTF I VEQUARTETLÅTT
-\op -T
-HELMER BRYDS EMINENT FIVE QUARTET LÅT
+\rebus 2NHÄSIHORTEN \upphovsman Tova1
+\op -2
+NHÄSIHORTEN
+\op (i)
+HORNHÄSTEN
 \op !
-NORGE
-\op +T
-\ort NORGET
+ENHÖRNINGEN
+\op +2, ! (addition)
+\ort TREHÖRNINGEN

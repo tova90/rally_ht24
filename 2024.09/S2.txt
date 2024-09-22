@@ -1,13 +1,7 @@
-\rebus TTXESULPOIR \upphovsman Tova1
-\op <->
-RIOPLUSEXTT
-\op R->N, -X
-NIO PLUS ETT
-\op ! (addition)
-10
-\op ! (per.sys.)
-NEON
-\op <->
-NOEN
-\op N->R, +X
-\ort ROXEN
+\rebus TERATSOMAVIRESPAL \upphovsman Becks
+\op (om)
+TER AVIRESPAL ATS
+\op (i)
+RESTER AV PALATS
+\op !
+\ort SLOTTSRUIN

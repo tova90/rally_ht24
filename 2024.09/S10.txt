@@ -1,13 +1,13 @@
-\rebus SNDERGNITFYDE \upphovsman Tomas
-\op <->
-EDYFTINGREDNS
+\rebus SOSRERIGESTELEVN \upphovsman Tova1
 \op (omvänd i)
-DYFTINGRED I ENS
-\op Y->O
-DOFTINGREDIENS
+OSRERIGESTELEV I SN
+\op (omvänd i)
+SRERIGESTELEVISION
+\op R->V
+SVERIGES TELEVISION
 \op !
-AROM
-\op <->
-MORA
-\op O->Y
-\ort MYRA
+SVT
+\op V->R
+SRT
+\op (omvänd i)
+\ort RIST

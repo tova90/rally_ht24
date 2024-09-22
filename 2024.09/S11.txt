@@ -1,7 +1,13 @@
-\rebus NÖTVLURPA \upphovsman Tova1
-\op -L
-NÖTVURPA
-\op !
-KOFALL
-\op +L
-\ort KOLFALL
+\rebus TTXESULPOIR \upphovsman Tova1
+\op <->
+RIOPLUSEXTT
+\op R->N, -X
+NIO PLUS ETT
+\op ! (addition)
+10
+\op ! (per.sys.)
+NEON
+\op <->
+NOEN
+\op N->R, +X
+\ort ROXEN

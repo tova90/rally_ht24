@@ -1,9 +1,7 @@
-\rebus 2NHÄSIHORTEN \upphovsman Tova1
-\op -2
-NHÄSIHORTEN
-\op (i)
-HORNHÄSTEN
+\rebus NÖTVLURPA \upphovsman Tova1
+\op -L
+NÖTVURPA
 \op !
-ENHÖRNINGEN
-\op +2, ! (addition)
-\ort TREHÖRNINGEN
+KOFALL
+\op +L
+\ort KOLFALL

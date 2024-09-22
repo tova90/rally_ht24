@@ -1,7 +1,13 @@
-\rebus TERATSOMAVIRESPAL \upphovsman Becks
-\op (om)
-TER AVIRESPAL ATS
-\op (i)
-RESTER AV PALATS
+\rebus SNDERGNITFYDE \upphovsman Tomas
+\op <->
+EDYFTINGREDNS
+\op (omvänd i)
+DYFTINGRED I ENS
+\op Y->O
+DOFTINGREDIENS
 \op !
-\ort SLOTTSRUIN
+AROM
+\op <->
+MORA
+\op O->Y
+\ort MYRA

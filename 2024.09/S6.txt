@@ -1,7 +1,7 @@
 \rebus DENMETOOCNT \upphovsman Becks
-\op (i)
+\op (omvänd i)
 NMETOOCIDENT
-\op (i)
+\op (omvänd i)
 ME TOO INCIDENT
 \op !
 \ort TAFSFALL

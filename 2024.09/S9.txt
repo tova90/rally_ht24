@@ -1,13 +1,9 @@
-\rebus SOSRERIGESTELEVN \upphovsman Tova1
-\op (omvänd i)
-OSRERIGESTELEV I SN
-\op (omvänd i)
-SRERIGESTELEVISION
-\op R->V
-SVERIGES TELEVISION
+\rebus NISKBOHARNING \upphovsman Howe
+\op <->
+GNINRAHOBKSIN
+\op (omvänd om)
+GNINOBKSIN OM RAH
+\op <->
+HARMONISK BONING
 \op !
-SVT
-\op V->R
-SRT
-\op (omvänd i)
-\ort RIST
+\ort FRIDHEM
