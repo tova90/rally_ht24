@@ -1,9 +1,0 @@
-\rebus TUTUIBÅRENMEDÅRÖR \upphovsman Tova1
-\op (i)
-BÅTUTURENMEDÅRÖR
-\op -U, Ö->O
-BÅTTURENMEDÅROR
-\op !
-RODDEN
-\op +U, O->Ö
-\ort RÖUDDEN
