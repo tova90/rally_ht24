@@ -192,7 +192,8 @@ $parts = array(
 
 
     // Rebuspriset
-    //'*picture*Rebuspriset:a-dur.png', Lägg in bild på rebuspriset
+    '*picture*Rebuspriset:rebuspriset.jpg',
+    '*picture*Blåbärsrebuspriset:blåbärsrebuspriset.jpg',
     'Rebusar totalt' =>
     array('*sum*',
           'ÖppReb', 'S 1', 'S 2', 'S 3', 'S 4',
@@ -200,6 +201,7 @@ $parts = array(
           'R 1', 'R 2', 'R 3', 'R 4',
           'R 5', 'R 6', 'R 7', 'R 8'),
 
+    '*picture*Backpriset:backpriset1.jpg',
     '*picture*Och vinnaren är...:resultat.png',
     'Slutresultat' => array('*sum*', 'Totalt efter Etapp 7', 'Etapp 8', 'Stil'),
     'Ständiga tvåan' => array('*sum*', 'Totalt efter Etapp 7', 'Etapp 8', 'Stil'),
@@ -207,8 +209,11 @@ $parts = array(
     'Bästa småbil' => array('*sum*', 'Totalt efter Etapp 7', 'Etapp 8', 'Stil'),
     'Bästa utlänska lag' => array('*sum*', 'Totalt efter Etapp 7', 'Etapp 8', 'Stil'),
     'Mittenpriset' => array('*sum*', 'Totalt efter Etapp 7', 'Etapp 8', 'Stil'),
+    '*picture*Sura trean:suratrean.jpg',
     'Sura trean' => array('*sum*', 'Totalt efter Etapp 7', 'Etapp 8', 'Stil'),
-    '*picture*Grattis!:trophy.jpg', //Skriv in vinnande lag här
+    '*picture*Grattis!:färstapriset.jpg', 
+    //'Färstapriset' => array('*sum*', 'Totalt efter Etapp 7', 'Etapp 8', 'Stil'),
+    //'*picture*Nästa års läggare:läggarpinne.jpg',
     );
 
 
