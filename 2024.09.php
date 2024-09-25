@@ -18,6 +18,7 @@ $teams = array(
     'Buzzin'                       => array(12, 9, '<blue>'),
     'RRL för Claes Elfsberg'       => array(13, 9),
     'Tegalreden'                  => array(15, 5, '<small'), 
+    'Rebussen'                  => array(16, 9), 
     'Ingenjörer på gränsen'        => array(42, 8),
     'Trial & Error'                => array(88, 9),
     'Webus Express'                => array(828, 9, '<free>')
