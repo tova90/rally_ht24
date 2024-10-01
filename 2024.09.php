@@ -8,27 +8,28 @@ $teams = array(
     'Viktat Projektivt Rum'        => array(1, 9),
     'Enar Åkered'                  => array(2, 9, '<free>'),
     'Senaste Laget'                => array(3, 8),
-    'Golden Goobers'               => array(4, 9, '<blue>'),
+    //'Golden Goobers'               => array(4, 9, '<blue>'),
     //'Femte gången gillt'           => array(5, 9),
     'Ibsens Kusiner'               => array(6, 9),
-    'Så att säga'                  => array(7, 3, '<small'), 
+    'Så att säga'                  => array(7, 3, '<small>'), 
     'Katlas Kompisar'              => array(8, 9, '<free>'),
     'Öset Luhring'                 => array(10, 8, '<legends>'),
     'Sötgötarna'                   => array(11, 7),
     'Buzzin'                       => array(12, 9, '<blue>'),
     'RRL för Claes Elfsberg'       => array(13, 9),
-    'Tegalreden'                  => array(15, 5, '<small'), 
+    'Tegalreden'                  => array(15, 5, '<small>'), 
     'Rebussen'                  => array(16, 9), 
-    'KG Racing'                       => array(17, 9, '<smallblue>'),
     'Ingenjörer på gränsen'        => array(42, 8, '<blue>'),
     'Trial & Error'                => array(88, 9),
-    'Webus Express'                => array(828, 9, '<free>')
+    'Webus Express'                => array(828, 9, '<free>'),
+    'KG Racing'                       => array(17, 9, '<smallblue>')
 );
 
 $bluerebus = array(3, 4, 6, 7);
 $bluehelprebus = array(2, 3, 4, 6, 7, 8);
 
 $events = array(
+
     // Rebusar
     'R 1' => 'Rebus 1',
     'R 2' => 'Rebus 2',
@@ -52,14 +53,6 @@ $events = array(
     'S 10' => 'Stjälp 10',
     'S 11' => 'Stjälp 11',
     'S 12' => 'Stjälp 12',
-
-    // Blåbärshjälp
-    'X 2' => 'Blåbärhjälp 2',
-    'X 3' => 'Blåbärhjälp 3',
-    'X 4' => 'Blåbärhjälp 4',
-    'X 6' => 'Blåbärhjälp 6',
-    'X 7' => 'Blåbärhjälp 7',
-    'X 8' => 'Blåbärhjälp 8',
 
     'ÖppReb' => 'Öppnat stjälprebuskuvertet',
 
@@ -108,11 +101,11 @@ $events = array(
     'FP 6' => 'Fotoplock 6',
     'FP 7' => 'Fotoplock 7',
     'FP 8' => 'Fotoplock 8',
+
 );
 
 $parts = array(
     '*picture*Rebusrally September 2024:firstpage.png',
-
     // Om du vill ha en bild som representerar Etapp #n så kan du bara spara en bild
     // med namn 'etapp1.jpg' eller 'etapp4.png' i din resultatmapp så kommer den 
     // automagiskt att bli visad.
@@ -128,7 +121,7 @@ $parts = array(
 
     // '*picture*Etapp 4 - Med Melodikrysset:Musikkryss.png',
     'Etapp 4' => array(
-        'R 4', 'P GOD', 'P MUS', 'TP 4', 'FP 4', 'Tid L'),
+        'R 4','P TEM', 'P MUS', 'TP 4', 'FP 4', 'Tid L'),
     'Totalt efter Etapp 4' => array('*sumcomp*', 'Totalt efter Etapp 3', 'Etapp 4'),
 
     'Lunch' =>
@@ -139,7 +132,7 @@ $parts = array(
         '*picture*Stjälpfotoplock:stjälpplock.png',
         'ÖppPlk',
         'StjPlk',
-        '*picture*Stjälptallriksplock:stjälptallrik.png',
+        '*picture*Stjälptallriksplock:stjälptallrik.jpg',
         'ÖppTlk',
         'StjTlk',
         array('*esum*', 'Stjälpplock totalt', 'ÖppPlk', 'StjPlk', 'ÖppTlk', 'StjTlk'),
@@ -172,7 +165,8 @@ $parts = array(
     '*picture*Prisutdelning:nobel.jpg',
 
     // Stilpris
-    '*picture*Stilpriset:stylish.png',
+    '*picture*Stilpriset:stil.jpg',
+    '*picture*Stilpriset:bristol.jpg',
     // Här kan det vara kul att lägga några bilder från dagen
     '*sorted*Stil',
 
@@ -212,9 +206,10 @@ $parts = array(
     'Mittenpriset' => array('*sum*', 'Totalt efter Etapp 7', 'Etapp 8', 'Stil'),
     '*picture*Sura trean:suratrean.jpg',
     'Sura trean' => array('*sum*', 'Totalt efter Etapp 7', 'Etapp 8', 'Stil'),
-    '*picture*Grattis!:färstapriset.jpg', 
-    //'Färstapriset' => array('*sum*', 'Totalt efter Etapp 7', 'Etapp 8', 'Stil'),
-    //'*picture*Nästa års läggare:läggarpinne.jpg',
+    '*picture*Grattis Katlas kompisar!:färstapriset.jpg', 
+    'Färstapriset' => array('*sum*', 'Totalt efter Etapp 7', 'Etapp 8', 'Stil'),
+    '*picture*Nästa års läggare:läggarpinne.jpg',
+    'Nästa års läggare - frisläng? - sura fyran?' => array('*sum*', 'Totalt efter Etapp 7', 'Etapp 8', 'Stil'),
     );
 
 
@@ -232,15 +227,17 @@ $maxPoints = array(
     'P KEX' => 10,
     'P MUT' => 24,
     'P OMG' => 26,
-    'P SYN' => 24,
+    'P SYN' => 24
 );
 
 $info = array(
+    
     'P MUS' => '<red>1 per fel',
     'P SHA' => '<red>1 per fel',
+
     'P SEN' => '<red>Notera att det för varje uppgift ska fyllas i tre svar. Varje svar motsvarar 1/3 prick, i summering i slutet avrundar vi snällt',
     'P GOD' => '<red>1 per fel',
-    'P TEM' => '<red>"Notera att det för varje uppgift ska fyllas i fem svar, eller två beroende på hur man ser på saken (tema samt vad varje bild föreställer). -1prick för varje korrekt tema, -1prick för korrekt förklaring av tema (kan alltså få max -1prick om man inte motiverar sina svar och -2prickar även med fel svar så länge motiveringen håller). Bristfälliga motiveringar, kan exempelvis bara koppla till tre av fyra bilder, ger delpoäng i form av 0,25prick per bild (tema plus tre bilder skulle exempelvis ge 1,75poäng) som efter summering i slutet avrundas uppåt till närmsta hela poäng"',
+    'P TEM' => '<red>Notera att det för varje uppgift ska fyllas i fem svar, eller två beroende på hur man ser på saken (tema samt vad varje bild föreställer). -1prick för varje korrekt tema, -1prick för korrekt förklaring av tema (kan alltså få max -1prick om man inte motiverar sina svar och -2prickar även med fel svar så länge motiveringen håller). Bristfälliga motiveringar, kan exempelvis bara koppla till tre av fyra bilder, ger delpoäng i form av 0,25prick per bild (tema plus tre bilder skulle exempelvis ge 1,75poäng) som efter summering i slutet avrundas uppåt till närmsta hela poäng',
     'P IDI' => '<red>0,5 prick per fel',
     'P BLO' => '<red>2 per fel',
     'P RÖD' => '<red>2 per fel',
@@ -266,5 +263,6 @@ $info = array(
     'S [0-9]+' => '-10 korrekt motiverad lösning',
     'FP [0-9]+' => '10 missat plock, 20 falskt plock',
     'TP [0-9]+' => '5 missat plock, 10 falskt plock'
+
 );
 ?>
